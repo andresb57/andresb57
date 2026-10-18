@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Andrés%20Bohórquez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Ingeniería%20de%20Sistemas&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=220&section=header&text=Andrés%20Bohórquez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Ingeniería%20de%20Sistemas&descSize=18&descAlignY=60&animation=fadeIn" alt="Header" />
 
 <div align="center">
 
@@ -31,12 +31,11 @@ Me apasiona el desarrollo web moderno, crear soluciones que funcionen de verdad 
 
 ```js
 const andres = {
-  rol: "Full Stack Developer",
-  enfoque: ["Frontend", "UI moderna", "APIs"],
-  stackFavorito: ["React", "Node.js", "Tailwind CSS"],
-  estudio: "Ingeniería de Sistemas @ UNIMINUTO",
-  ubicacion: "Colombia 🇨🇴",
-  siempre: "Aprendiendo algo nuevo 🚀",
+  rol: "Full Stack Dev",
+  foco: ["Frontend", "APIs"],
+  stack: ["React", "Node"],
+  estudio: "Ing. de Sistemas",
+  pais: "Colombia 🇨🇴",
 };
 ```
 
@@ -86,21 +85,6 @@ const andres = {
 
 <br/>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andresb57&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresb57&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Lenguajes" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andresb57&theme=tokyonight&hide_border=true&background=0f172a" alt="Racha" />
-
-</div>
-
-<br/>
-
 ## 📫 Hablemos
 
 ¿Tienes una idea, proyecto u oportunidad? Escríbeme, con gusto conversamos.
@@ -113,4 +97,4 @@ const andres = {
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=footer" alt="Footer" />
