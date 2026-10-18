@@ -70,7 +70,7 @@ const andres = {
 <table>
   <tr>
     <td>
-      <h3>💧 <a href="https://github.com/andresb57/aquasmart">AquaSmart</a></h3>
+      <h3><a href="aquasmartcol.vercel.app">AquaSmart</a></h3>
       <p>Sistema de telemetría e inteligencia de datos para monitorear y gestionar en tiempo real el consumo de agua.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
